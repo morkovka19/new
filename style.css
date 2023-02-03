@@ -1,5 +1,5 @@
 body{
-    background-color: purple;
+    background-color: pink;
     color: bisque;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: small;
@@ -12,4 +12,5 @@ newP{
 }
 newHref{
     font-style: italic;
+    color: antiquewhite;
 }
